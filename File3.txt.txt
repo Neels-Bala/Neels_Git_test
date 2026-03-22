@@ -1,2 +1,0 @@
-Testing the third file from directory
-Not sure why we have 2 txt files 
