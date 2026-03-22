@@ -1,4 +1,3 @@
-
 if user_input == "Hello":
     print("Agent: Hi there!")
 elif user_input == "Goodbye":
